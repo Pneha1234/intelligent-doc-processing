@@ -1,0 +1,18 @@
+INVOICE
+Invoice Number: INV-2025-001
+Date: November 25, 2025
+Due Date: December 15, 2025
+
+From: Global Solutions Inc
+To: Acme Corp
+
+Description: Professional Services - Q4 2025
+Amount: $15,000.00
+Tax: $2,500.00
+Total: $17,500.00
+
+Payment Terms: Net 30 days
+Reference: PO-45678
+
+Please remit payment to the address below.
+
