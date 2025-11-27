@@ -433,8 +433,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Project Developers:** [nehapandey408@gmail.com], [sahmanish20@gmail.com]
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
+- **GitHub:** [pneha1234](https://github.com/pneha1234), [csemanish12](https://github.com/csemanish12)
+- **LinkedIn:** [Neha](https://www.linkedin.com/in/neha-pandey-dev/), [Manish](https://www.linkedin.com/in/manish-sah/)
 
 ---
 
